@@ -44,6 +44,10 @@ The special thing about our idea is that it brings farmers and customers closer 
 1. Technologies to Be Used
 
 We plan to create a simple website or mobile app where farmers and customers can connect with each other. Farmers can add their products, prices and available quantities. Customers can view the products and order them easily. We will use a simple and user-friendly design so that everyone can understand and use it without difficulty.
+<img width="842" height="566" alt="image" src="https://github.com/user-attachments/assets/61688acd-86ce-4d95-ae36-1254b6a35ed9" />
+
+
+
 
 2. Method and Process
 
